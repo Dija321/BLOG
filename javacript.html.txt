@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="blog1.css">
+    <title>Programming-Language</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+          <a class="navbar-brand" href="#">MY Blog</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        
+          <div class="collapse navbar-collapse " id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Blog</a>
+              </li>
+              <li class="nav-item active">
+                  <a class="nav-link" href="#">Contact</a>
+                </li>
+            </div>
+        </nav>
+      </header>
+      
+ <div class="container-fluid">
+     <div class="row">
+         <div class="col-lg-8 col-md-6">
+             <img class="img" src="img/bl1.jpeg" style="width: 40px">
+             <span>By John Sonmez</span>
+             <span>July 15, 2021</span>
+             <h3>JavaScript</h3>
+             <p>JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.
+
+                This section is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about API specifics to Web pages, please see Web APIs and DOM.
+                
+                The standards for JavaScript are the ECMAScript Language Specification (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). The JavaScript documentation throughout MDN is based on the latest draft versions of ECMA-262 and ECMA-402. And in cases where some proposals for new ECMAScript features have already been implemented in browsers, documentation and examples in MDN articles may use some of those new features.
+                
+                Do not confuse JavaScript with the Java programming language. Both "Java" and "JavaScript" are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantic, and use.</p>
+                
+                
+                <h4>Commonly Asked Questions</h4> 
+               <h5>How do I get JavaScript?</h5> 
+               <h5> Where can I download JavaScript?</h5>
+               <h5> Is JavaScript Free?</h5>
+               <p> You don't have to get or download JavaScript.</p>
+                
+               <p> JavaScript is already running in your browser on your computer, on your tablet, and on your smart-phone.
+                
+                JavaScript is free to use for everyone.</p>
+
+         </div>
+        <div class="floating">
+        <img class="card-img-top" src="img/2.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#">5 qualities of succesful Programmer</a></h5>
+       
+        <img class="card-img-top" src="img/img77.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#">Learn Programming Faster in 2021</a></h5>
+       
+        <img class="card-img-top" src="img/trick.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#"> Top Programming languages in 2021</a></h5>
+       
+        <img class="card-img-top" src="img/img.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#">Understanding and Managing Risk</a></h5>
+        <img class="card-img-top" src="img/img8.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#">New Generation of Software Developers</a></h5>
+        </div>
+        </div>
+     </div>
+ </div>
+
+  
+ 
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>

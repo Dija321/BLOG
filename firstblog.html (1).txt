@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="blog1.css">
+    <title>Programming-Language</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+          <a class="navbar-brand" href="#">MY Blog</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        
+          <div class="collapse navbar-collapse " id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Blog</a>
+              </li>
+              <li class="nav-item active">
+                  <a class="nav-link" href="#">Contact</a>
+                </li>
+            </div>
+        </nav>
+      </header>
+      
+ <div class="container-fluid">
+     <div class="row">
+         <div class="col-lg-8 col-md-6">
+             <img class="img" src="img/bl1.jpeg" style="width: 40px">
+             <span>By John Sonmez</span>
+             <span>July 15, 2021</span>
+             <h3>What Programming Language Should I Learn First</h3>
+             <p>What programming language should you learn first? What do I think? I'm going to give you a theoretical view and then I'm going to give you the pragmatic, practical view on what you should learn. If you haven't already checked out my book, Soft Skills: The Software Developers Life, check this out. The second edition, I added a bunch of new chapters. You're going to like it. I am working on the audio version. I'll be recording that this week. All right, so there's two theories. Some people say low level. They say, “You should learn C first, because if you learn C or C++, then you'll understand pointers, you'll understand the underpinnings of how everything works, and you'll have a good grasp of computer science fundamentals and how things are working, which I can't argue with that. That makes a lot of sense.
+
+                I mean, you could learn Assembly as well. And actually, I don't discourage that. I think that that's not a horrible thing to do, but it's probably not the best way to start. Other people say, “Learn a high level language. Learn something really, really simple so that you can get started right away, and then you can fill in the fundamentals and basics later.” All right, that's where I tend to lean. I'll tell you why. Now, their biggest reason why is because compliance is most important, because most likely, if you try to tackle something too hard, you're not going to have the motivation to continue and you're going to drop off and you're going to feel discouraged. Now, you could learn C and C++, but even some of the most hardcore veteran programmers like myself, the old guard, we say we learned C and C++ as our first programming language, but that's not really true.
+                
+                Because me, what was the first language that I ever got a job in? It was C++, for sure. But how did I actually get into programming? Well, my first real programming experience was an Apple II3 computer using Basic on the Apple IIe. I think you'll find that many veteran programmers, that's exactly their exact same experience as well. So what happened was that was the gateway drug. That got me into it. And because it was so simple and I could actually accomplish things and write a program and learn it in a day, it got me motivated and it got me to the point where I would actually have the patience to learn C and C++, which is much more difficult. So that's why it's more important to get something and to get going, because let's say that you learn a high level language. Now, you can get a job or you could build some apps. You could actually start building something. And then now you can go back and fill in the fundamentals.
+                
+                See, a lot of people don't fill in the fundamentals though, and that's how they get stuck at being a mediocre developer. So you don't want to do that either. Now, if you do want to go back and fill in the fundamentals, I have a book I'm going to recommend to you. We're going to bring this up quick here on the screen. Code: The Hidden Language of Computer Hardware and Software. Really, really good. Really, really just excellent, excellent book. Again, not so sure about the guy. Had some run-ins with him. That's how it goes. But the book, I recommend highly. I would definitely get a copy of that, because you should know all that stuff. But, again, starting out, do you need to learn all that stuff? That's not a bad place to start, if you want to read that book, but you don't have to learn C and C++. You don't have to learn Assembly in order to get started. In fact, it'd be better to just jump to a high level program.
+                
+                So what do I recommend? Now, a lot of people are going to say JavaScript, and a lot of coding bootcamps, which I highly do recommend doing coding boot camps, they do recommend JavaScript. That's because it's universal, the skill is in demand, and like I said, it's going to be where a lot of jobs are. But the problem with learning JavaScript is it is not an easy language. It's a little bit more difficult because it's so unstructured. I would actually recommend Python. I feel like Python is probably the simplest language that you can learn that is going to get you able to build things very, very quickly. JavaScript, again, you could build things quickly with JavaScript, but there's a lot of nuance. There's a lot of stuff and cruff there. It's not the most elegant language. Python is a little bit more elegant and you can find a job with that as well.
+                
+                All right, so that's what I would recommend. I would say start with Python. And then my second place would be JavaScript, actually. And if you look at what most of the coding boot camps teach you, it's probably JavaScript. And actually here's a really interesting point here, is it even relevant to ask the question, what programming language should I learn first? Because it's not that, because if you look at a coding bootcamp, you look at what people teach, it's going to be a stack. And that's what's more relevant today. Back in the day when I first started programming, you could become a C or C++ developer, or you could be a C Sharp developer when that came out, or a Java developer. And there's an enterprise Java developer or not.
+                
+                But today, it's a whole stack. If you're going to be a JavaScript developer, you're going to know React, or you're going to choose a different framework and it's going to be several different frameworks. It's going to be a lot of things together. So it's not just a programming language. Now it's really a stack. Because those programming languages by themselves, if you just know JavaScript by itself, it's not really that useful. You have to know the actual language and the paradigm that goes with that and the technology. So that is really what you should be asking yourself is, what stack should I learn? And, again, I just did a video last week. You can watch that video If you haven't already, and I talk about that. And if you want to know more about just a software development career, I don't have the book with me right now, but it's my other book, The Complete Software Developer Career Guide. I would definitely check that out and subscribe to the channel so you can get more videos on your software development career.</p>
+
+         </div>
+        <div class="floating">
+        <img class="card-img-top" src="img/2.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#">5 qualities of succesful Programmer</a></h5>
+       
+        <img class="card-img-top" src="img/img77.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#">Learn Programming Faster in 2021</a></h5>
+       
+        <img class="card-img-top" src="img/trick.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#"> Top Programming languages in 2021</a></h5>
+       
+        <img class="card-img-top" src="img/img.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#">Understanding and Managing Risk</a></h5>
+        <img class="card-img-top" src="img/img8.jpg" alt="Card image cap" style="width: 248px">
+        <h5> <a href="#">New Generation of Software Developers</a></h5>
+        </div>
+        </div>
+     </div>
+ </div>
+
+  
+ 
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,39 @@
+let btn1=document.querySelector('.btn1');
+let modalContainer=document.querySelector('.modalContainer');
+let close=document.querySelector('.modal-close');
+let closeOnly=document.querySelector('.close-only');
+let button=document.querySelectorAll('.like_butn');
+let count=document.querySelectorAll('#count');
+let clicked=false;
+
+btn1.addEventListener('click',function(){
+    modalContainer.classList.add('modalshow');
+})
+
+close.addEventListener('click',function(){
+    modalContainer.classList.remove('modalshow');
+})
+
+
+function addData(){
+
+   let title=document.getElementById('title').value;
+    let hTag=document.createElement('h2');
+    
+    let hContent=document.createTextNode(" Title: " + title)
+    hTag.appendChild(hContent);
+    document.getElementById('main').appendChild(hTag);
+    
+   let story=document.getElementById('story').value;
+   let pTag=document.createElement('p');
+  let myPContent=document.createTextNode(" Article: "+ story);
+  pTag.setAttribute('style', 'border:1px solid black; width:500px; background:white;')
+
+   pTag.appendChild(myPContent);
+
+   document.getElementById('main').appendChild(pTag);
+
+  
+}
+
+
